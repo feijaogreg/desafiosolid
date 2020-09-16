@@ -1,0 +1,1 @@
+Este simples exemplo demonstra o S (Single Responsability Principle) do SOLID pois a classe Counter exerce uma, e somente uma função - contar no intervalo estabelecido. Assim, para criar outra features no código, basta criar novas classes com uma função cada.
